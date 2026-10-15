@@ -1,6 +1,6 @@
 #include<string.h>
 int main() {
-    char s[20] = {0};
+    char s[20] = {0};//一定要初始化数组
     scanf("%s", &s);
     int val = strlen(s);
     for (int i = 1; i <= val; i++) { 

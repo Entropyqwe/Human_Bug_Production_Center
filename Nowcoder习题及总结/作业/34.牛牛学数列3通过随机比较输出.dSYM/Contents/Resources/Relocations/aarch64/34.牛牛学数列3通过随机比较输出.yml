@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "34.牛牛学数列3通过随机比较输出"
+relocations:     []
+...

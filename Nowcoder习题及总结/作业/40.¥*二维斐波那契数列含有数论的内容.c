@@ -24,7 +24,7 @@ long long power(long long base, long long exp) {
 }
 
 // 预处理函数：提前算好所有需要的阶乘和逆元
-void precompute() {
+int precompute(void) {
     // 1. 计算阶乘
     fact[0] = 1;
     for (int i = 1; i < MAXN; i++) {

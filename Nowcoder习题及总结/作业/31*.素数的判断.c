@@ -16,7 +16,7 @@ int isPrime(int n) {
     }
     return 1; // 没有找到能整除的数，是素数
 }
-
+//*函数定义
 int main() {
     int T;
     scanf("%d", &T);
