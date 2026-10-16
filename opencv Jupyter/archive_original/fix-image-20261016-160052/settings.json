@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "D:\\anaconda\\envs\\opencv-course\\python.exe",
+  "python.terminal.activateEnvironment": false,
+  "terminal.integrated.env.windows": {
+    "PATH": "D:\\anaconda\\envs\\opencv-course;D:\\anaconda\\envs\\opencv-course\\Scripts;D:\\anaconda\\envs\\opencv-course\\Library\\bin;${env:PATH}",
+    "VIRTUAL_ENV": "D:\\anaconda\\envs\\opencv-course"
+  },
+  "files.encoding": "utf8"
+}

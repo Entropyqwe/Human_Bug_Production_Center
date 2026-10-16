@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "D:\\anaconda\\envs\\opencv-course\\python.exe",
+    "python.terminal.activateEnvironment": false,
+    "files.encoding": "utf8",
+    "files.exclude": {
+      "**/.jupyter-runtime": true,
+      "**/.ipynb_checkpoints": true,
+      "**/archive_original": true
+    },
+    "search.exclude": {
+      "**/archive_original": true,
+      "**/.jupyter-runtime": true,
+      "**/.ipynb_checkpoints": true
+    }
+  }
+}
