@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run OpenCV program",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/opencv_app.exe",
+      "cwd": "${workspaceFolder}",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+      "preLaunchTask": "Build OpenCV program",
+      "externalConsole": true,
+      "environment": [
+        {
+          "name": "PATH",
+          "value": "C:/msys64/ucrt64/bin;D:/opencv/build/x64/mingw5/install/x64/mingw/bin;${env:PATH}"
+        }
+      ]
+    },
+    {
+      "name": "Python OpenCV course",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "python": "D:\\anaconda\\envs\\opencv-course\\python.exe",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
