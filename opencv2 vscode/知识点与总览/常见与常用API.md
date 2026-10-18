@@ -48,3 +48,11 @@ cap.read读出采集的视频资源
 第一个值是状态值，当读到到视频帧为true；第二个值是是视频帧
 
 cap.release()释放出我们过程中所占据的资源
+
+视频录制
+添加头文件 fourcc=cv2.VideoWriter_fourcc('*MJPG')
+VideoWriter
+参数：第一个是输出文件名字，第二个是多媒体文件格式（编码器），多为VideoWriter_fourcc,第三个为帧率，第四个为分辨率率大小
+write写入文件（将原始的数据压缩编码后再写入）
+要求：写入视频帧数，分辨率
+release
