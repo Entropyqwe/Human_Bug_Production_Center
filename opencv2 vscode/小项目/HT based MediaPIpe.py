@@ -7,7 +7,6 @@ import cv2
 import mediapipe as mp
 
 
-# 手腕、五根手指与掌部的连接关系，编号对应模型的 21 个关键点。
 CONNECTIONS = (
     (0, 1), (1, 2), (2, 3), (3, 4),
     (0, 5), (5, 6), (6, 7), (7, 8),
@@ -19,7 +18,6 @@ MODEL = Path(__file__).resolve().with_name("hand_landmarker.task")
 
 
 def draw_hands(frame, result):
-    """将每只手的骨架画在摄像头画面上。"""
     height, width = frame.shape[:2]
     for landmarks in result.hand_landmarks:
         points = [
@@ -44,7 +42,8 @@ def main():
         raise SystemExit("缺少模型：请将 hand_landmarker.task 放在本程序旁边。")
 
     options = mp.tasks.vision.HandLandmarkerOptions(
-        base_options=mp.tasks.BaseOptions(model_asset_path=str(MODEL)),
+        # Python 读取模型字节，避免 Windows 原生库无法识别中文路径。
+        base_options=mp.tasks.BaseOptions(model_asset_buffer=MODEL.read_bytes()),
         running_mode=mp.tasks.vision.RunningMode.VIDEO,
         num_hands=2,
         min_hand_detection_confidence=0.5,
