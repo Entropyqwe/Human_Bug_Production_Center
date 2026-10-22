@@ -73,3 +73,14 @@ opencv中用到的矩阵都要转换成这个进行分析
 
 a=np.array([2,3,4])代表一维数组
 c=np.array([[1.0,2.0],[3.0,4.0]])
+
+Mat的属性，也叫做图像的属性
+先要读取图像，
+img=cv2.imread('')
+# shape属性中包括了三个属性高度，长度和通道数
+print(img.shape)
+# size属性是表明图像占据了多大的内存空间
+# 高度* 长度*3
+print(img.size)
+# dtype 图像中每个元素的位深
+print(img.dtype)
