@@ -8,7 +8,7 @@ dog=cv2.imread('C:/Users/23832/Desktop/Sample picture/mmexport1792039269282.jpg'
 #必须尺寸一致才能进行加法运算
 #图的加法运算就是矩阵的加法运算
 print(dog.shape)#先输出这个图的基本信息，根据基本信息大小进行矩阵的运算
-img=np.ones((1430, 1280, 3),np.uint8)*100
+img=np.ones((1430, 1280, 3),np.uint8)*10
 cv2.imshow('orig',dog)
 result=cv2.add(dog,img)
 cv2.imshow('result',result)
@@ -17,3 +17,11 @@ cv2.imshow('result',result)
 result2=cv2.subtract(result,img)
 cv2.imshow('orig_1',result2)
 cv2.waitKey(0)
+#!图像的乘与除
+#multiply(A,B)
+#divide（A，B)
+
+#!图像的溶合
+#*addWeighted(A,alpha,B,bate,gamma)
+#alpha和beta是权重，alpha是结果融合后A图像占的权重，bate是结果融合后B占的权重，总占比为1
+#gamma为静态权重
