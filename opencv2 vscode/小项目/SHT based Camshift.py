@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 打开摄像头
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 if not cap.isOpened():
     print("无法打开摄像头")
@@ -40,11 +40,7 @@ roi_hist = cv2.calcHist([roi_hsv], [0], mask, [180], [0, 180])
 cv2.normalize(roi_hist, roi_hist, 0, 255, cv2.NORM_MINMAX)
 
 # CamShift 参数
-term_crit = (
-    cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT,
-    10,
-    1
-)
+term_crit = (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT,10,1)
 
 while True:
     ret, frame = cap.read()
@@ -56,25 +52,13 @@ while True:
     back_project = cv2.calcBackProject([hsv], [0], roi_hist, [0, 180], 1)
 
     # 根据颜色分布估计头部的新位置
-    ret_box, track_window = cv2.CamShift(
-        back_project,
-        track_window,
-        term_crit
-    )
+    ret_box, track_window = cv2.CamShift(back_project,track_window,term_crit)
 
     # 画出跟踪框
     points = cv2.boxPoints(ret_box)
     points = np.intp(points)
     cv2.polylines(frame, [points], True, (0, 255, 0), 2)
-    cv2.putText(
-        frame,
-        "Head tracking - press q to quit",
-        (10, 30),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.7,
-        (0, 255, 0),
-        2
-    )
+    cv2.putText(frame,"Head tracking - press q to quit",(10, 30),cv2.FONT_HERSHEY_SIMPLEX,0.7,(0, 255, 0),2)
 
     cv2.imshow("Head tracking", frame)
 

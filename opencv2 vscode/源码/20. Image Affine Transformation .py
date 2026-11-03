@@ -34,3 +34,11 @@ b=cv2.warpAffine(new,M,(w,h))
 cv2.imshow('a',new)
 cv2.imshow('b',b)
 cv2.waitKey(0)
+
+
+#通过确定三个点的前后位置来表示变换的方向
+#geiAffineTransform(src[],dst[])
+#*两个坐标集分开来写就像是写变量一样
+#最后参考仿射变换1，直接采用M=某个API来使得变换生效
+#!src是要进行变换之前的坐标三个点
+#!dst是三个参考点移动后的位置
