@@ -1,0 +1,5 @@
+脚本启动于 2026-11-13 11:26:16+08:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="123" LINES="60"]
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+脚本完成于 2026-11-13 11:26:24+08:00 [COMMAND_EXIT_CODE="0"]

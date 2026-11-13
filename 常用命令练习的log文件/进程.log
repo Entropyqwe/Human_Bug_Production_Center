@@ -1,0 +1,357 @@
+脚本启动于 2026-11-13 11:36:50+08:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="123" LINES="60"]
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7m./calc/build/app &[27m./calc/build/app &
+[?2004l]133;C\]666;vte.shell.preexec!\[1] 27388
+]666;vte.shell.postexec=0\bash: ./calc/build/app: 没有那个文件或目录
+]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[1]+  退出 127                 ./calc/build/app
+[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mjobs[27mjobs
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7m./calc/build/app &[27m./calc/build/app &[C[1P[1P[1P[1P[1P[4@main[1@.[3@cpp[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\[1] 27480
+]666;vte.shell.postexec=0\bash: ./calc/main.cpp/app: 没有那个文件或目录
+]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[1]+  退出 127                 ./calc/main.cpp/app
+[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7m./calc/build/app &[27m./calc/build/app &[C[1P[1P[1P[1P[1P[3@src[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\[1] 27490
+]666;vte.shell.postexec=0\bash: ./calc/src/app: 没有那个文件或目录
+]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[1]+  退出 127                 ./calc/src/app
+[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7m./calc/build/app &[27m./calc/build/app &[1P[1P[1P[1P[1P[3@pro[4@ject[1P[1P[1P[1P[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\[1] 27767
+]666;vte.shell.postexec=0\bash: ./project/app: 没有那个文件或目录
+]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[1]+  退出 127                 ./project/app
+[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mfind . -type f -executable[27mfind . -type f -executable
+[?2004l]133;C\]666;vte.shell.preexec!\./run.sh
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7m./run.sh[27m./run.sh
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ jobs
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mps aux | grep app[27mps aux | grep app
+[?2004l]133;C\]666;vte.shell.preexec!\entropy     4975  0.3  3.6 1460190052 551904 ?   SLl  11月12   2:47 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn
+entropy     5208  0.0  0.3 34089260 56940 ?      S    11月12   0:00 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn --type=zygote --no-zygote-sandbox
+entropy     5209  0.0  0.3 34089244 56788 ?      S    11月12   0:00 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn --type=zygote
+entropy     5225  0.0  0.0 34089244 11368 ?      S    11月12   0:00 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn --type=zygote
+entropy     5910  0.0  0.9 1217184 151092 ?      Sl   11月12   0:49 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.JBUXY3 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -bytesw[01;31m[Kapp[m[Kedclients -enable-ei-portal
+entropy     6011  0.0  0.0 33568236 3736 ?       Sl   11月12   0:00 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/entropy/.config/QwenWorkCN/Crashpad --annotation=_productName=QwenWorkCN --annotation=_version=1.3.1 --annotation=lsb-release=Ubuntu 26.04.1 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=37.10.3 --initial-client-fd=44 --shared-client-connection
+entropy     6055  0.0  0.9 34604368 148592 ?     Sl   11月12   0:02 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn --type=zygote --no-zygote-sandbox
+entropy     6063  0.0  0.5 33926164 82376 ?      Sl   11月12   0:00 /proc/self/exe --type=utility --utility-sub-type=network.mojom.NetworkService --lang=zh-CN --service-sandbox-type=none --crashpad-handler-pid=6011 --enable-crash-reporter=54645bdc-0e6f-4d19-b975-6fe1f5ce780d,no_channel --user-data-dir=/home/entropy/.config/QwenWorkCN --standard-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K --secure-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --bypasscsp-schemes=local-file,qwenwork-asset --cors-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --fetch-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --streaming-schemes=qwenwork-artifact,local-file,qwenwork-asset --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,1092860580819263297,17617364445031670331,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+entropy     6705  0.0  2.0 1476752648 311816 ?   Sl   11月12   0:15 /proc/self/exe --type=renderer --crashpad-handler-pid=6011 --enable-crash-reporter=54645bdc-0e6f-4d19-b975-6fe1f5ce780d,no_channel --user-data-dir=/home/entropy/.config/QwenWorkCN --standard-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K --secure-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --bypasscsp-schemes=local-file,qwenwork-asset --cors-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --fetch-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --streaming-schemes=qwenwork-artifact,local-file,qwenwork-asset --[01;31m[Kapp[m[K-path=/opt/[01;31m[Kapp[m[Ks/QwenWorkCN/resources/[01;31m[Kapp[m[K.asar --no-sandbox --no-zygote --disable-gpu-compositing --lang=zh-CN --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1794490410029756 --launch-time-ticks=46573189 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,1092860580819263297,17617364445031670331,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version --qwenwork-language=zh
+entropy     6714  0.0  0.8 1459567092 130756 ?   Sl   11月12   0:00 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/resources/[01;31m[Kapp[m[K.asar/out/main/browser-extension-relay-worker.js
+entropy     6798  0.0  1.8 1476701740 288748 ?   Sl   11月12   0:04 /proc/self/exe --type=renderer --crashpad-handler-pid=6011 --enable-crash-reporter=54645bdc-0e6f-4d19-b975-6fe1f5ce780d,no_channel --user-data-dir=/home/entropy/.config/QwenWorkCN --standard-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K --secure-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --bypasscsp-schemes=local-file,qwenwork-asset --cors-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --fetch-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --streaming-schemes=qwenwork-artifact,local-file,qwenwork-asset --[01;31m[Kapp[m[K-path=/opt/[01;31m[Kapp[m[Ks/QwenWorkCN/resources/[01;31m[Kapp[m[K.asar --no-sandbox --no-zygote --disable-gpu-compositing --lang=zh-CN --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1794490410029756 --launch-time-ticks=48562476 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,1092860580819263297,17617364445031670331,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version --qwenwork-language=zh
+entropy     6823  0.0  0.4 33942844 66964 ?      Sl   11月12   0:00 /proc/self/exe --type=utility --utility-sub-type=audio.mojom.AudioService --lang=zh-CN --service-sandbox-type=none --crashpad-handler-pid=6011 --enable-crash-reporter=54645bdc-0e6f-4d19-b975-6fe1f5ce780d,no_channel --user-data-dir=/home/entropy/.config/QwenWorkCN --standard-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K --secure-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --bypasscsp-schemes=local-file,qwenwork-asset --cors-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --fetch-schemes=qwenwork-artifact,qw[01;31m[Kapp[m[K,local-file,qwenwork-asset --streaming-schemes=qwenwork-artifact,local-file,qwenwork-asset --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,1092860580819263297,17617364445031670331,262144 --enable-features=PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess --variations-seed-version
+entropy     6923  0.0  0.8 1459602148 133752 ?   Sl   11月12   0:00 /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/qwen-work-cn /opt/[01;31m[Kapp[m[Ks/QwenWorkCN/resources/legokits/canvas/vite-server-worker.cjs
+entropy     7059  0.0  0.2 462584 34532 ?        S    11月12   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -ipcHandle 0 -signalPipe 1 -initialChannelId {aa8bb2f4-3d1c-4ff3-8119-289323fce0c7} -parentPid 6846 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 1 forkserver
+entropy     7062  0.0  0.2 474716 39432 ?        Sl   11月12   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -prefsHandle 0:35957 -prefMapHandle 1:293872 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {cc251d82-6969-47ee-aee2-a2380a1d6c32} -parentPid 6846 -crashHelperPid 6933 -crashHelper 5 -crashReporter 6 -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 2 socket
+entropy     7080  0.0  1.4 2816108 221616 ?      Sl   11月12   0:11 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:36082 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {7931f44b-efe5-463a-9dd9-b876b2e21195} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 3 tab
+entropy     7090  0.0  0.8 1022516 135308 ?      Sl   11月12   0:02 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -prefsHandle 0:36082 -prefMapHandle 1:293872 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {04171150-aacb-4756-ae2e-21620c06a84b} -parentPid 6846 -crashHelperPid 6933 -crashHelper 5 -crashReporter 6 -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 4 rdd
+entropy     7404  0.8  1.7 3069260 260252 ?      Sl   11月12   6:49 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:32952 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {4e1daf44-1326-46ae-855b-3d461a23ee91} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 5 tab
+entropy     7425  0.0  0.7 2694532 120832 ?      Sl   11月12   0:01 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:36202 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {d6204256-f638-4d2f-91f9-f3b290447ff1} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 6 tab
+entropy     7629  1.7  9.6 4837572 1465804 ?     Sl   11月12  14:32 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48267 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {63a8fffd-e46d-4fe8-aa65-ae78ee947206} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 7 tab
+entropy     7849  0.0  0.3 647700 59292 ?        Sl   11月12   0:02 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -parentBuildID 20260814105733 -sandboxingKind 0 -prefsHandle 0:51603 -prefMapHandle 1:293872 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {3bb7285a-df5d-4d06-8872-f09c9c09c9f5} -parentPid 6846 -crashHelperPid 6933 -crashHelper 5 -crashReporter 6 -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 8 utility
+entropy     7862  0.0  1.2 2956656 190700 ?      Sl   11月12   0:09 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48360 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {252834c7-4857-4051-baef-2e21ec79b483} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 10 tab
+entropy     8220  0.0  0.5 54907792 86784 ?      Sl   11月12   0:00 /opt/Obsidian/obsidian --type=utility --utility-sub-type=network.mojom.NetworkService --lang=zh-CN --service-sandbox-type=none --render-node-override=/dev/dri/renderD129 --enable-crash-reporter=2b554bba-b560-4e05-afb3-3d4fe7602d14,no_channel --user-data-dir=/home/entropy/.config/obsidian --standard-schemes=[01;31m[Kapp[m[K --secure-schemes=[01;31m[Kapp[m[K --cors-schemes=[01;31m[Kapp[m[K --fetch-schemes=[01;31m[Kapp[m[K --streaming-schemes=[01;31m[Kapp[m[K --code-cache-schemes=[01;31m[Kapp[m[K --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7282250416488170290,982418373505180476,262144 --enable-features=GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker,SharedArrayBuffer --disable-features=DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,14015189010581613587,12481668130297162587,4 --trace-process-track-uuid=3190708989122997041 --log-level=3
+entropy     8232  0.2  1.9 1522730884 301356 ?   Sl   11月12   1:42 /opt/Obsidian/obsidian --type=renderer --enable-crash-reporter=2b554bba-b560-4e05-afb3-3d4fe7602d14,no_channel --user-data-dir=/home/entropy/.config/obsidian --standard-schemes=[01;31m[Kapp[m[K --secure-schemes=[01;31m[Kapp[m[K --cors-schemes=[01;31m[Kapp[m[K --fetch-schemes=[01;31m[Kapp[m[K --streaming-schemes=[01;31m[Kapp[m[K --code-cache-schemes=[01;31m[Kapp[m[K --[01;31m[Kapp[m[K-path=/opt/Obsidian/resources/[01;31m[Kapp[m[K.asar --no-sandbox --no-zygote --ozone-platform=wayland --lang=zh-CN --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1794490410029757 --launch-time-ticks=66185219 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7282250416488170290,982418373505180476,262144 --enable-features=GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker,SharedArrayBuffer --disable-features=DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,14015189010581613587,12481668130297162587,4 --trace-process-track-uuid=3190708990060038890 --log-level=3
+entropy    15975  0.0  0.6 4483872 106312 ?      Sl   09:36   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/[01;31m[Kapp[m[K/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/[01;31m[Kapp[m[K
+entropy    18940  0.0  1.0 1518720108 162032 ?   Sl   10:03   0:00 /opt/Obsidian/obsidian --type=renderer --enable-crash-reporter=2b554bba-b560-4e05-afb3-3d4fe7602d14,no_channel --user-data-dir=/home/entropy/.config/obsidian --standard-schemes=[01;31m[Kapp[m[K --secure-schemes=[01;31m[Kapp[m[K --cors-schemes=[01;31m[Kapp[m[K --fetch-schemes=[01;31m[Kapp[m[K --streaming-schemes=[01;31m[Kapp[m[K --code-cache-schemes=[01;31m[Kapp[m[K --[01;31m[Kapp[m[K-path=/opt/Obsidian/resources/[01;31m[Kapp[m[K.asar --no-sandbox --no-zygote --ozone-platform=wayland --lang=zh-CN --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1794490410029757 --launch-time-ticks=4011561047 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7282250416488170290,982418373505180476,262144 --enable-features=GlobalShortcutsPortalPreferredTrigger,PdfUseShowSaveFilePicker,SharedArrayBuffer --disable-features=DropInputEventsWhilePaintHolding,LocalNetworkAccessChecks,ScreenAIOCREnabled,SpareRendererForSitePerProcess,TraceSiteInstanceGetProcessCreation --variations-seed-version --pseudonymization-salt-handle=7,i,14015189010581613587,12481668130297162587,4 --trace-process-track-uuid=3190708990997080739 --log-level=3
+entropy    21576  0.0  0.5 2610344 76500 ?       Sl   10:38   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48578 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {bec55b55-eea4-4d94-9974-0c940e2deaf5} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 17 tab
+entropy    22346  0.0  0.5 2610344 76312 ?       Sl   10:41   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48578 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {cdcdebc2-a231-46ca-9400-e9118ba82537} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 18 tab
+entropy    22401  0.0  0.5 2610344 76140 ?       Sl   10:42   0:00 /snap/firefox/8763/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsHandle 0:48654 -prefMapHandle 1:293872 -jsInitHandle 2:161776 -parentBuildID 20260814105733 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {fb158b15-1a73-4199-a980-483460ba18b5} -parentPid 6846 -crashHelperPid 6933 -crashHelper 6 -crashReporter 7 -greomni /snap/firefox/8763/usr/lib/firefox/omni.ja -[01;31m[Kapp[m[Komni /snap/firefox/8763/usr/lib/firefox/browser/omni.ja -[01;31m[Kapp[m[KDir /snap/firefox/8763/usr/lib/firefox/browser 19 tab
+entropy    27429  0.4  1.3 2324976 208420 ?      Sl   11:37   0:02 /usr/bin/nautilus --g[01;31m[Kapp[m[Klication-service
+entropy    28799  0.0  0.0   9456  2724 pts/4    S+   11:48   0:00 grep --color=auto [01;31m[Kapp[m[K
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mkill %1[27mkill %1
+[?2004l]133;C\]666;vte.shell.preexec!\bash: kill: %1: 无此任务
+]666;vte.shell.postexec=1\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mtop[27mtop
+[?2004l]133;C\]666;vte.shell.preexec!\[?1h=[?25l[H[2J(B[mtop - 11:48:39 up 14:15,  1 user,  load average: 0.56, 0.61, 0.63(B[m[39;49m(B[m[39;49m[K
+任务:(B[m[39;49m[1m 435 (B[m[39;49mtotal,(B[m[39;49m[1m   2 (B[m[39;49mrunning,(B[m[39;49m[1m 433 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  1.6 (B[m[39;49mus,(B[m[39;49m[1m  1.1 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 97.3 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  14869.5 (B[m[39;49mtotal,(B[m[39;49m[1m    488.0 (B[m[39;49mfree,(B[m[39;49m[1m   7655.9 (B[m[39;49mused,(B[m[39;49m[1m   6637.0 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7213.6 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m 进程号 USER      PR  NI    VIRT    RES    SHR    %CPU  %MEM     TIME+ COMMAND                                             (B[m[39;49m[K
+(B[m[1m   4668 entropy   20   0 9885.6m 915864 248760 R  18.2   6.0  22:37.03 gnome-shell                                         (B[m[39;49m[K
+(B[m   6846 entropy   20   0   12.7g 969132 433292 S  18.2   6.4  17:26.68 firefox                                             (B[m[39;49m[K
+(B[m   7404 entropy   20   0 3069244 260248 154548 S   9.1   1.7   6:51.31 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   7629 entropy   20   0 4837556   1.4g 199840 S   9.1   9.6  14:33.81 Isolated Web Co                                     (B[m[39;49m[K
+(B[m[1m  28804 entropy   20   0   13640   6116   3908 R   9.1   0.0   0:00.02 top                                                 (B[m[39;49m[K
+(B[m      1 root      20   0   26932  17596  11744 S   0.0   0.1   0:03.03 systemd                                             (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd                                            (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_workqueue_release                              (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-rcu_gp                                    (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-sync_wq                                   (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-kvfree_rcu_reclaim                        (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-slub_flushwq                              (B[m[39;49m[K
+(B[m      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-netns                                     (B[m[39;49m[K
+(B[m     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-kblockd                                (B[m[39;49m[K
+(B[m     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-mm_percpu_wq                              (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 S   0.0   0.0   0:00.28 ksoftirqd/0                                         (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.0   0.0   0:10.14 rcu_preempt                                         (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp_par_gp_kthread_worker/0                     (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.02 rcu_exp_gp_kthread_worker                           (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.32 migration/0                                         (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-optimizer                                    (B[m[39;49m[K
+(B[m     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                       (B[m[39;49m[K
+(B[m     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                             (B[m[39;49m[K
+(B[m     22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                             (B[m[39;49m[K
+(B[m     23 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                       (B[m[39;49m[K
+(B[m     24 root      rt   0       0      0      0 S   0.0   0.0   0:02.53 migration/2                                         (B[m[39;49m[K
+(B[m     25 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/2                                         (B[m[39;49m[K
+(B[m     27 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-kblockd                                (B[m[39;49m[K
+(B[m     28 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/4                                             (B[m[39;49m[K
+(B[m     29 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/4                                       (B[m[39;49m[K
+(B[m     30 root      rt   0       0      0      0 S   0.0   0.0   0:01.88 migration/4                                         (B[m[39;49m[K
+(B[m     31 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftirqd/4                                         (B[m[39;49m[K
+(B[m     32 root      20   0       0      0      0 I   0.0   0.0   0:00.50 kworker/4:0-events                                  (B[m[39;49m[K
+(B[m     33 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/4:0H-kblockd                                (B[m[39;49m[K
+(B[m     34 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/6                                             (B[m[39;49m[K
+(B[m     35 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/6                                       (B[m[39;49m[K
+(B[m     36 root      rt   0       0      0      0 S   0.0   0.0   0:01.95 migration/6                                         (B[m[39;49m[K
+(B[m     37 root      20   0       0      0      0 S   0.0   0.0   0:00.08 ksoftirqd/6                                         (B[m[39;49m[K
+(B[m     39 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/6:0H-kblockd                                (B[m[39;49m[K
+(B[m     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/8                                             (B[m[39;49m[K
+(B[m     41 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/8                                       (B[m[39;49m[K
+(B[m     42 root      rt   0       0      0      0 S   0.0   0.0   0:01.23 migration/8                                         (B[m[39;49m[K
+(B[m     43 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/8                                         (B[m[39;49m[K
+(B[m     44 root      20   0       0      0      0 I   0.0   0.0   0:00.55 kworker/8:0-events                                  (B[m[39;49m[K
+(B[m     45 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/8:0H-kblockd                                (B[m[39;49m[K
+(B[m     46 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/10                                            (B[m[39;49m[K
+(B[m     47 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/10                                      (B[m[39;49m[K
+(B[m     48 root      rt   0       0      0      0 S   0.0   0.0   0:01.81 migration/10                                        (B[m[39;49m[K
+(B[m     49 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/10                                        (B[m[39;49m[K
+(B[m     51 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/10:0H-kblockd                               (B[m[39;49m[K
+(B[m     52 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/12                                            (B[m[39;49m[K
+(B[m     53 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/12                                      (B[m[39;49m[K
+(B[m     54 root      rt   0       0      0      0 S   0.0   0.0   0:00.37 migration/12                                        (B[m[39;49m[K[H(B[mtop - 11:48:42 up 14:15,  1 user,  load average: 0.52, 0.60, 0.62(B[m[39;49m(B[m[39;49m[K
+任务:(B[m[39;49m[1m 435 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 434 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  1.6 (B[m[39;49mus,(B[m[39;49m[1m  0.7 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 97.6 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  14869.5 (B[m[39;49mtotal,(B[m[39;49m[1m    489.8 (B[m[39;49mfree,(B[m[39;49m[1m   7653.8 (B[m[39;49mused,(B[m[39;49m[1m   6636.9 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7215.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   4668 entropy   20   0 9885.6m 915864 248760 S  15.2   6.0  22:37.49 gnome-shell                                         (B[m[39;49m[K
+(B[m   6846 entropy   20   0   12.7g 968752 432912 S   7.3   6.4  17:26.90 firefox                                             (B[m[39;49m[K
+(B[m   7404 entropy   20   0 3069244 260252 154548 S   6.3   1.7   6:51.50 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   7629 entropy   20   0 4837176   1.4g 199468 S   3.3   9.6  14:33.91 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   6739 entropy   20   0 3136788 231900 173580 S   2.3   1.5   1:10.77 ptyxis                                              (B[m[39;49m[K
+(B[m  27478 root      20   0       0      0      0 I   0.7   0.0   0:02.13 kworker/u64:0-events_unbound                        (B[m[39;49m[K
+(B[m[1m  28804 entropy   20   0   13640   6508   4292 R   0.7   0.0   0:00.04 top                                                 (B[m[39;49m[K
+(B[m   4975 entropy   20   0 1392.5g 551912 207620 S   0.3   3.6   2:47.32 qwen-work-cn                                        (B[m[39;49m[K
+(B[m   8214 entropy   20   0   53.1g 218720 163000 S   0.3   1.4   0:42.44 obsidian                                            (B[m[39;49m[K
+(B[m  19170 root      20   0       0      0      0 I   0.3   0.0   0:15.34 kworker/u64:1-gfx                                   (B[m[39;49m[K
+(B[m      1 root      20   0   26932  17596  11744 S   0.0   0.1   0:03.03 systemd                                             (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd                                            (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_workqueue_release                              (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-rcu_gp                                    (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-sync_wq                                   (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-kvfree_rcu_reclaim                        (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-slub_flushwq                              (B[m[39;49m[K
+(B[m      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-netns                                     (B[m[39;49m[K
+(B[m     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-kblockd                                (B[m[39;49m[K
+(B[m     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-mm_percpu_wq                              (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 S   0.0   0.0   0:00.28 ksoftirqd/0                                         (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.0   0.0   0:10.14 rcu_preempt                                         (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp_par_gp_kthread_worker/0                     (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.02 rcu_exp_gp_kthread_worker                           (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.32 migration/0                                         (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-optimizer                                    (B[m[39;49m[K
+(B[m     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                       (B[m[39;49m[K
+(B[m     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                             (B[m[39;49m[K
+(B[m     22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                             (B[m[39;49m[K
+(B[m     23 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                       (B[m[39;49m[K
+(B[m     24 root      rt   0       0      0      0 S   0.0   0.0   0:02.53 migration/2                                         (B[m[39;49m[K
+(B[m     25 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/2                                         (B[m[39;49m[K
+(B[m     27 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-kblockd                                (B[m[39;49m[K
+(B[m     28 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/4                                             (B[m[39;49m[K
+(B[m     29 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/4                                       (B[m[39;49m[K
+(B[m     30 root      rt   0       0      0      0 S   0.0   0.0   0:01.88 migration/4                                         (B[m[39;49m[K
+(B[m     31 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftirqd/4                                         (B[m[39;49m[K
+(B[m     32 root      20   0       0      0      0 I   0.0   0.0   0:00.50 kworker/4:0-mm_percpu_wq                            (B[m[39;49m[K
+(B[m     33 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/4:0H-kblockd                                (B[m[39;49m[K
+(B[m     34 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/6                                             (B[m[39;49m[K
+(B[m     35 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/6                                       (B[m[39;49m[K
+(B[m     36 root      rt   0       0      0      0 S   0.0   0.0   0:01.95 migration/6                                         (B[m[39;49m[K
+(B[m     37 root      20   0       0      0      0 S   0.0   0.0   0:00.08 ksoftirqd/6                                         (B[m[39;49m[K
+(B[m     39 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/6:0H-kblockd                                (B[m[39;49m[K
+(B[m     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/8                                             (B[m[39;49m[K
+(B[m     41 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/8                                       (B[m[39;49m[K
+(B[m     42 root      rt   0       0      0      0 S   0.0   0.0   0:01.23 migration/8                                         (B[m[39;49m[K
+(B[m     43 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/8                                         (B[m[39;49m[K
+(B[m     44 root      20   0       0      0      0 I   0.0   0.0   0:00.55 kworker/8:0-events                                  (B[m[39;49m[K
+(B[m     45 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/8:0H-kblockd                                (B[m[39;49m[K
+(B[m     46 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/10                                            (B[m[39;49m[K
+(B[m     47 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/10                                      (B[m[39;49m[K
+(B[m     48 root      rt   0       0      0      0 S   0.0   0.0   0:01.81 migration/10                                        (B[m[39;49m[K[H(B[mtop - 11:48:45 up 14:15,  1 user,  load average: 0.52, 0.60, 0.62(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  3.3 (B[m[39;49mus,(B[m[39;49m[1m  1.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 95.6 (B[m[39;49mid,(B[m[39;49m[1m  0.1 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  14869.5 (B[m[39;49mtotal,(B[m[39;49m[1m    365.3 (B[m[39;49mfree,(B[m[39;49m[1m   7778.2 (B[m[39;49mused,(B[m[39;49m[1m   6637.0 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7091.3 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   4975 entropy   20   0 1394.2g 665056 207648 S  35.8   4.4   2:48.40 qwen-work-cn                                        (B[m[39;49m[K
+(B[m   4668 entropy   20   0 9885.6m 916308 248760 S  16.6   6.0  22:37.99 gnome-shell                                         (B[m[39;49m[K
+(B[m   6846 entropy   20   0   12.7g 968752 432912 S   6.3   6.4  17:27.09 firefox                                             (B[m[39;49m[K
+(B[m   6739 entropy   20   0 3136788 231900 173580 S   4.6   1.5   1:10.91 ptyxis                                              (B[m[39;49m[K
+(B[m   7404 entropy   20   0 3069244 260252 154548 S   4.3   1.7   6:51.63 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   7629 entropy   20   0 4837176   1.4g 199476 S   2.6   9.6  14:33.99 Isolated Web Co                                     (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.3   0.0   0:10.15 rcu_preempt                                         (B[m[39;49m[K
+(B[m     66 root      rt   0       0      0      0 S   0.3   0.0   0:00.06 migration/1                                         (B[m[39;49m[K
+(B[m    996 root      20   0       0      0      0 S   0.3   0.0   0:11.36 napi/phy0-0                                         (B[m[39;49m[K
+(B[m   4162 entropy   20   0   13728  11212   4724 S   0.3   0.1   0:10.51 dbus-daemon                                         (B[m[39;49m[K
+(B[m  19170 root      20   0       0      0      0 I   0.3   0.0   0:15.35 kworker/u64:1-events_unbound                        (B[m[39;49m[K
+(B[m  25091 root      20   0       0      0      0 I   0.3   0.0   0:04.43 kworker/u64:4-comp_1.1.1                            (B[m[39;49m[K
+(B[m[1m  28804 entropy   20   0   13640   6508   4292 R   0.3   0.0   0:00.05 top                                                 (B[m[39;49m[K
+(B[m      1 root      20   0   26932  17596  11744 S   0.0   0.1   0:03.03 systemd                                             (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd                                            (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_workqueue_release                              (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-rcu_gp                                    (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-sync_wq                                   (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-kvfree_rcu_reclaim                        (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-slub_flushwq                              (B[m[39;49m[K
+(B[m      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-netns                                     (B[m[39;49m[K
+(B[m     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-kblockd                                (B[m[39;49m[K
+(B[m     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-mm_percpu_wq                              (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 S   0.0   0.0   0:00.28 ksoftirqd/0                                         (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp_par_gp_kthread_worker/0                     (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.02 rcu_exp_gp_kthread_worker                           (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.32 migration/0                                         (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-optimizer                                    (B[m[39;49m[K
+(B[m     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                       (B[m[39;49m[K
+(B[m     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                             (B[m[39;49m[K
+(B[m     22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                             (B[m[39;49m[K
+(B[m     23 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                       (B[m[39;49m[K
+(B[m     24 root      rt   0       0      0      0 S   0.0   0.0   0:02.53 migration/2                                         (B[m[39;49m[K
+(B[m     25 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/2                                         (B[m[39;49m[K
+(B[m     27 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-kblockd                                (B[m[39;49m[K
+(B[m     28 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/4                                             (B[m[39;49m[K
+(B[m     29 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/4                                       (B[m[39;49m[K
+(B[m     30 root      rt   0       0      0      0 S   0.0   0.0   0:01.88 migration/4                                         (B[m[39;49m[K
+(B[m     31 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftirqd/4                                         (B[m[39;49m[K
+(B[m     32 root      20   0       0      0      0 I   0.0   0.0   0:00.50 kworker/4:0-events                                  (B[m[39;49m[K
+(B[m     33 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/4:0H-kblockd                                (B[m[39;49m[K
+(B[m     34 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/6                                             (B[m[39;49m[K
+(B[m     35 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/6                                       (B[m[39;49m[K
+(B[m     36 root      rt   0       0      0      0 S   0.0   0.0   0:01.95 migration/6                                         (B[m[39;49m[K
+(B[m     37 root      20   0       0      0      0 S   0.0   0.0   0:00.08 ksoftirqd/6                                         (B[m[39;49m[K
+(B[m     39 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/6:0H-kblockd                                (B[m[39;49m[K
+(B[m     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/8                                             (B[m[39;49m[K
+(B[m     41 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/8                                       (B[m[39;49m[K
+(B[m     42 root      rt   0       0      0      0 S   0.0   0.0   0:01.23 migration/8                                         (B[m[39;49m[K
+(B[m     43 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/8                                         (B[m[39;49m[K
+(B[m     44 root      20   0       0      0      0 I   0.0   0.0   0:00.55 kworker/8:0-mm_percpu_wq                            (B[m[39;49m[K
+(B[m     45 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/8:0H-kblockd                                (B[m[39;49m[K
+(B[m     46 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/10                                            (B[m[39;49m[K[H(B[mtop - 11:48:48 up 14:15,  1 user,  load average: 0.56, 0.61, 0.63(B[m[39;49m(B[m[39;49m[K
+任务:(B[m[39;49m[1m 435 (B[m[39;49mtotal,(B[m[39;49m[1m   2 (B[m[39;49mrunning,(B[m[39;49m[1m 433 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2.6 (B[m[39;49mus,(B[m[39;49m[1m  1.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 96.3 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.1 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  14869.5 (B[m[39;49mtotal,(B[m[39;49m[1m    301.7 (B[m[39;49mfree,(B[m[39;49m[1m   7841.8 (B[m[39;49mused,(B[m[39;49m[1m   6637.0 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7027.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   4975 entropy   20   0 1394.2g 728124 207648 S  25.2   4.8   2:49.16 qwen-work-cn                                        (B[m[39;49m[K
+(B[m   4668 entropy   20   0 9885.9m 916356 248760 S  15.3   6.0  22:38.45 gnome-shell                                         (B[m[39;49m[K
+(B[m   6846 entropy   20   0   12.7g 968752 432912 S   5.6   6.4  17:27.26 firefox                                             (B[m[39;49m[K
+(B[m   6739 entropy   20   0 3136788 231916 173580 S   4.7   1.5   1:11.05 ptyxis                                              (B[m[39;49m[K
+(B[m   7404 entropy   20   0 3069244 260256 154548 S   4.0   1.7   6:51.75 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   7629 entropy   20   0 4837176   1.4g 199480 S   2.7   9.6  14:34.07 Isolated Web Co                                     (B[m[39;49m[K
+(B[m    996 root      20   0       0      0      0 S   1.7   0.0   0:11.41 napi/phy0-0                                         (B[m[39;49m[K
+(B[m  19170 root      20   0       0      0      0 I   0.7   0.0   0:15.37 kworker/u64:1-mt76                                  (B[m[39;49m[K
+(B[m  27478 root      20   0       0      0      0 I   0.7   0.0   0:02.15 kworker/u64:0-events_unbound                        (B[m[39;49m[K
+(B[m     30 root      rt   0       0      0      0 S   0.3   0.0   0:01.89 migration/4                                         (B[m[39;49m[K
+(B[m    554 systemd+  20   0   16824   7796   6756 S   0.3   0.1   0:03.67 systemd-oomd                                        (B[m[39;49m[K
+(B[m   6705 entropy   20   0 1408.3g 311940 158544 S   0.3   2.0   0:15.49 qwen-work-cn                                        (B[m[39;49m[K
+(B[m   7862 entropy   20   0 2956640 190684 134668 S   0.3   1.3   0:09.40 Isolated Web Co                                     (B[m[39;49m[K
+(B[m[1m   8163 entropy   20   0 1448.5g 306276 253548 R   0.3   2.0   0:32.51 obsidian                                            (B[m[39;49m[K
+(B[m   8232 entropy   20   0 1452.2g 299668 164908 S   0.3   2.0   1:43.45 obsidian                                            (B[m[39;49m[K
+(B[m  10591 root      20   0       0      0      0 I   0.3   0.0   0:07.73 kworker/7:0-events                                  (B[m[39;49m[K
+(B[m  25082 root      20   0       0      0      0 I   0.3   0.0   0:00.15 kworker/0:2-events_freezable                        (B[m[39;49m[K
+(B[m      1 root      20   0   26932  17596  11744 S   0.0   0.1   0:03.03 systemd                                             (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd                                            (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_workqueue_release                              (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-rcu_gp                                    (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-sync_wq                                   (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-kvfree_rcu_reclaim                        (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-slub_flushwq                              (B[m[39;49m[K
+(B[m      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-netns                                     (B[m[39;49m[K
+(B[m     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/0:0H-kblockd                                (B[m[39;49m[K
+(B[m     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/R-mm_percpu_wq                              (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 S   0.0   0.0   0:00.28 ksoftirqd/0                                         (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.0   0.0   0:10.15 rcu_preempt                                         (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp_par_gp_kthread_worker/0                     (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.02 rcu_exp_gp_kthread_worker                           (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.32 migration/0                                         (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-optimizer                                    (B[m[39;49m[K
+(B[m     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                       (B[m[39;49m[K
+(B[m     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                             (B[m[39;49m[K
+(B[m     22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                             (B[m[39;49m[K
+(B[m     23 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                       (B[m[39;49m[K
+(B[m     24 root      rt   0       0      0      0 S   0.0   0.0   0:02.53 migration/2                                         (B[m[39;49m[K
+(B[m     25 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/2                                         (B[m[39;49m[K
+(B[m     27 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-kblockd                                (B[m[39;49m[K
+(B[m     28 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/4                                             (B[m[39;49m[K
+(B[m     29 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/4                                       (B[m[39;49m[K
+(B[m     31 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftirqd/4                                         (B[m[39;49m[K
+(B[m     32 root      20   0       0      0      0 I   0.0   0.0   0:00.50 kworker/4:0-mm_percpu_wq                            (B[m[39;49m[K
+(B[m     33 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/4:0H-kblockd                                (B[m[39;49m[K
+(B[m     34 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/6                                             (B[m[39;49m[K
+(B[m     35 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/6                                       (B[m[39;49m[K
+(B[m     36 root      rt   0       0      0      0 S   0.0   0.0   0:01.95 migration/6                                         (B[m[39;49m[K
+(B[m     37 root      20   0       0      0      0 S   0.0   0.0   0:00.08 ksoftirqd/6                                         (B[m[39;49m[K
+(B[m     39 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/6:0H-kblockd                                (B[m[39;49m[K
+(B[m     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/8                                             (B[m[39;49m[K
+(B[m     41 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/8                                       (B[m[39;49m[K
+(B[m     42 root      rt   0       0      0      0 S   0.0   0.0   0:01.23 migration/8                                         (B[m[39;49m[K[H(B[mtop - 11:48:51 up 14:15,  1 user,  load average: 0.51, 0.60, 0.62(B[m[39;49m(B[m[39;49m[K
+任务:(B[m[39;49m[1m 435 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 434 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  1.8 (B[m[39;49mus,(B[m[39;49m[1m  0.8 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 97.3 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.1 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  14869.5 (B[m[39;49mtotal,(B[m[39;49m[1m    401.8 (B[m[39;49mfree,(B[m[39;49m[1m   7741.7 (B[m[39;49mused,(B[m[39;49m[1m   6640.1 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m   4096.0 (B[m[39;49mtotal,(B[m[39;49m[1m   4096.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m   7127.9 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m   4668 entropy   20   0 9885.6m 916384 248760 S  14.3   6.0  22:38.88 gnome-shell                                         (B[m[39;49m[K
+(B[m   6846 entropy   20   0   12.7g 968752 432912 S   7.0   6.4  17:27.47 firefox                                             (B[m[39;49m[K
+(B[m   7404 entropy   20   0 3069244 260260 154548 S   4.7   1.7   6:51.89 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   8232 entropy   20   0 1452.2g 300852 164936 S   4.7   2.0   1:43.59 obsidian                                            (B[m[39;49m[K
+(B[m   4975 entropy   20   0 1392.5g 618172 207620 S   4.0   4.1   2:49.28 qwen-work-cn                                        (B[m[39;49m[K
+(B[m   7629 entropy   20   0 4837176   1.4g 199484 S   3.0   9.6  14:34.16 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   6739 entropy   20   0 3136788 231932 173580 S   2.0   1.5   1:11.11 ptyxis                                              (B[m[39;49m[K
+(B[m    996 root      20   0       0      0      0 S   1.7   0.0   0:11.46 napi/phy0-0                                         (B[m[39;49m[K
+(B[m[1m  28804 entropy   20   0   13640   6512   4292 R   1.0   0.0   0:00.08 top                                                 (B[m[39;49m[K
+(B[m   7862 entropy   20   0 2956656 190700 134668 S   0.7   1.3   0:09.42 Isolated Web Co                                     (B[m[39;49m[K
+(B[m   8163 entropy   20   0 1448.5g 306616 253548 S   0.7   2.0   0:32.53 obsidian                                            (B[m[39;49m[K
+(B[m  25091 root      20   0       0      0      0 I   0.7   0.0   0:04.45 kworker/u64:4-mt76                                  (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.3   0.0   0:10.16 rcu_preempt                                         (B[m[39;49m[K
+(B[m    559 systemd+  20   0   24152  16688  12420 S   0.3   0.1   0:03.50 systemd-resolve                                     (B[m[39;49m[K
+(B[m    999 root      20   0       0      0      0 S   0.3   0.0   0:04.90 napi/phy0-0                                         (B[m[39;49m[K
+(B[m   8214 entropy   20   0   53.1g 218796 163028 S   0.3   1.4   0:42.45 obsidian                                            (B[m[39;49m[K
+(B[m  19170 root      20   0       0      0      0 I   0.3   0.0   0:15.38 kworker/u64:1-dm_vblank_control_workqueue           (B[m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp_par_gp_kthread_worker/0                     (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.02 rcu_exp_gp_kthread_worker                           (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.32 migration/0                                         (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-optimizer                                    (B[m[39;49m[K
+(B[m     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/0                                       (B[m[39;49m[K
+(B[m     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0                                             (B[m[39;49m[K
+(B[m     22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2                                             (B[m[39;49m[K
+(B[m     23 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/2                                       (B[m[39;49m[K
+(B[m     24 root      rt   0       0      0      0 S   0.0   0.0   0:02.53 migration/2                                         (B[m[39;49m[K
+(B[m     25 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftirqd/2                                         (B[m[39;49m[K
+(B[m     27 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker/2:0H-kblockd                                (B[m[39;49m[K
+(B[m     28 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/4                                             (B[m[39;49m[K
+(B[m     29 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_inject/4                                       (B[m[39;49m[K
+(B[m     30 root      rt   0       0      0      0 S   0.0   0.0   0:01.89 migration/4                                         (B[m[39;49m[K
+
+(B[m     32 root      20   0       0      0      0 I   0.0   0.0   0:00.50 kworker/4:0-rcu_gp                                  (B[m[39;49m[K
+
+
+
+
+
+
+
+
+[?1l>[61;1H
+[?12l[?25h[K]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+脚本完成于 2026-11-13 11:48:59+08:00 [COMMAND_EXIT_CODE="0"]

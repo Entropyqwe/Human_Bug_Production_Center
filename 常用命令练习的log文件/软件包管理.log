@@ -1,0 +1,24 @@
+脚本启动于 2026-11-13 11:56:18+08:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="123" LINES="60"]
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mapt list --installed | grep cmake[27mapt list --installed | grep cmake
+[?2004l]133;C\]666;vte.shell.preexec!\
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+[01;31m[Kcmake[m[K-data/resolute,resolute,now 4.2.3-2ubuntu2 all [已安装，自动]
+[01;31m[Kcmake[m[K/resolute,now 4.2.3-2ubuntu2 amd64 [已安装]
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7msudo apt remove --dry-run cmake[27msudo apt remove --dry-run cmake
+[?2004l]133;C\]666;vte.shell.preexec!\[sudo: authenticate] 密码： ***********           
+
+正在读取软件包列表... 0%正在读取软件包列表... 0%正在读取软件包列表... 0%正在读取软件包列表... 3%正在读取软件包列表... 3%正在读取软件包列表... 6%正在读取软件包列表... 6%正在读取软件包列表... 7%正在读取软件包列表... 7%正在读取软件包列表... 8%正在读取软件包列表... 8%正在读取软件包列表... 8%正在读取软件包列表... 8%正在读取软件包列表... 8%正在读取软件包列表... 8%正在读取软件包列表... 46%正在读取软件包列表... 46%正在读取软件包列表... 65%正在读取软件包列表... 65%正在读取软件包列表... 81%正在读取软件包列表... 81%正在读取软件包列表... 82%正在读取软件包列表... 82%正在读取软件包列表... 82%正在读取软件包列表... 82%正在读取软件包列表... 82%正在读取软件包列表... 82%正在读取软件包列表... 84%正在读取软件包列表... 84%正在读取软件包列表... 85%正在读取软件包列表... 85%正在读取软件包列表... 86%正在读取软件包列表... 86%正在读取软件包列表... 88%正在读取软件包列表... 88%正在读取软件包列表... 88%正在读取软件包列表... 88%正在读取软件包列表... 89%正在读取软件包列表... 89%正在读取软件包列表... 90%正在读取软件包列表... 90%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 91%正在读取软件包列表... 93%正在读取软件包列表... 93%正在读取软件包列表... 94%正在读取软件包列表... 94%正在读取软件包列表... 95%正在读取软件包列表... 95%正在读取软件包列表... 96%正在读取软件包列表... 96%正在读取软件包列表... 96%正在读取软件包列表... 96%正在读取软件包列表... 97%正在读取软件包列表... 97%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 98%正在读取软件包列表... 99%                                   正在分析软件包的依赖关系树... 0%正在分析软件包的依赖关系树... 0%正在分析软件包的依赖关系树... 50%正在分析软件包的依赖关系树... 50%                                               正在读取状态信息... 0%正在读取状态信息... 0%                               正在解析依赖... 0%正在解析依赖... 10%                          下列软件包是自动安装的并且现在不需要了：
+  cmake-data  libjsoncpp26  librhash1
+使用'sudo apt autoremove'来卸载它(它们)。
+
+【将要卸载】：
+[31m  cmake
+[0m
+摘要：
+  升级：0，安装：0，卸载：1，不升级：16
+Remv cmake [4.2.3-2ubuntu2]
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+脚本完成于 2026-11-13 11:58:39+08:00 [COMMAND_EXIT_CODE="0"]

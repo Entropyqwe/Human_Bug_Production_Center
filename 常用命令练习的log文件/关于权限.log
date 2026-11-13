@@ -1,0 +1,24 @@
+脚本启动于 2026-11-13 11:29:36+08:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="123" LINES="60"]
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mchmod 755 run.sh[27mchmod 755 run.sh
+[?2004l]133;C\]666;vte.shell.preexec!\chmod: cannot access 'run.sh': No such file or directory
+]666;vte.shell.postexec=1\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mcat > run.sh <<EOF[27mcat > run.sh <<EOF
+[?2004l[?2004h> [7mchmod 755 run.sh[27m
+[A[C[Cchmod 755 run.sh
+[A
+[?2004l[?2004h> [?2004l
+bash: 警告： 立即文档在第 2 行被文件结束符分隔（需要 "EOF"）
+]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mchmod 755 run.sh[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod 755 run.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mchmod 644 note.txt[27mchmod 644 note.txt
+[?2004l]133;C\]666;vte.shell.preexec!\chmod: cannot access 'note.txt': No such file or directory
+]666;vte.shell.postexec=1\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mchmod 644 note.txt[27m[1Pchmod 644 note.tx[K[K[K[K[K[K[Krun.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mcat > run.sh <<EOF[27mcat > run.sh <<EOF[1P[1P[1P[1P[1P[1P[3@not[1@e[1@.[1@t[1@x[1@t[C[C[C[C[C[C
+[?2004l[?2004h> niai[K[K[K[Kji[K[Kniahao1[K[K[K[K[K[Kihao
+[?2004l[?2004h> [?2004l
+bash: 警告： 立即文档在第 7 行被文件结束符分隔（需要 "EOF"）
+]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ [7mls -l run.sh[27mls -l run.sh
+[?2004l]133;C\]666;vte.shell.preexec!\-rwxr-xr-x 1 entropy entropy 18 Nov 13 11:33 [0m[01;32mrun.sh[0m
+]666;vte.shell.postexec=0\]7;file://entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM/home/entropy/%E6%A1%8C%E9%9D%A2/calc\]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM:~/桌面/calc\]666;vte.shell.precmd!\[?2004h]0;entropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM: ~/桌面/calc[01;32mentropy@entropy-ASUS-TUF-Gaming-A15-FA506QM-FA506QM[00m:[01;34m~/桌面/calc[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+脚本完成于 2026-11-13 11:35:50+08:00 [COMMAND_EXIT_CODE="0"]
