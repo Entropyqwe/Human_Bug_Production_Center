@@ -27,7 +27,7 @@ cd build ./main
 ### 5.必须要先创建一个CML文件，终端是看不懂CML文件里面填写的东西的
 touch CMakeLists.txt
 
-
+### 6.不能够在完成库搭建后又去进行Cmake版本的修改
 
 
 

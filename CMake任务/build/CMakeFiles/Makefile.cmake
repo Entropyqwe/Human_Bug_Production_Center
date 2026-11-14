@@ -143,6 +143,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/lib.dir/DependInfo.cmake"
+  "CMakeFiles/lib_static.dir/DependInfo.cmake"
+  "CMakeFiles/lib_shared.dir/DependInfo.cmake"
   "CMakeFiles/app.dir/DependInfo.cmake"
   )

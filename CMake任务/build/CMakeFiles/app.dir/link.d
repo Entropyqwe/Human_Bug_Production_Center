@@ -1,12 +1,9 @@
-/home/entropy/桌面/CMake任务/bin/app: \
+bin/app: \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o \
-  CMakeFiles/app.dir/src/add.cpp.o \
-  CMakeFiles/app.dir/src/div.cpp.o \
   CMakeFiles/app.dir/src/main.cpp.o \
-  CMakeFiles/app.dir/src/mult.cpp.o \
-  CMakeFiles/app.dir/src/sub.cpp.o \
+  liby.a \
   /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
@@ -33,7 +30,9 @@
   /usr/lib/gcc/x86_64-linux-gnu/15/libgcc.a \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o \
-  /lib64/ld-linux-x86-64.so.2
+  /usr/lib/x86_64-linux-gnu/libm.so.6 \
+  /lib64/ld-linux-x86-64.so.2 \
+  /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libgcc_s.so.1
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o:
 
@@ -41,15 +40,9 @@
 
 /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o:
 
-CMakeFiles/app.dir/src/add.cpp.o:
-
-CMakeFiles/app.dir/src/div.cpp.o:
-
 CMakeFiles/app.dir/src/main.cpp.o:
 
-CMakeFiles/app.dir/src/mult.cpp.o:
-
-CMakeFiles/app.dir/src/sub.cpp.o:
+liby.a:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
 
@@ -103,4 +96,8 @@ CMakeFiles/app.dir/src/sub.cpp.o:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o:
 
+/usr/lib/x86_64-linux-gnu/libm.so.6:
+
 /lib64/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libgcc_s.so.1:

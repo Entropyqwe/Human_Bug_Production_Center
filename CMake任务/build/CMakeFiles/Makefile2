@@ -63,12 +63,14 @@ CMAKE_BINARY_DIR = /home/entropy/桌面/CMake任务/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/lib.dir/all
+all: CMakeFiles/lib_static.dir/all
+all: CMakeFiles/lib_shared.dir/all
 all: CMakeFiles/app.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
-codegen: CMakeFiles/lib.dir/codegen
+codegen: CMakeFiles/lib_static.dir/codegen
+codegen: CMakeFiles/lib_shared.dir/codegen
 codegen: CMakeFiles/app.dir/codegen
 .PHONY : codegen
 
@@ -77,55 +79,88 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/lib.dir/clean
+clean: CMakeFiles/lib_static.dir/clean
+clean: CMakeFiles/lib_shared.dir/clean
 clean: CMakeFiles/app.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/lib.dir
+# Target rules for target CMakeFiles/lib_static.dir
 
 # All Build rule for target.
-CMakeFiles/lib.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=7,8,9,10,11,12 "Built target lib"
-.PHONY : CMakeFiles/lib.dir/all
+CMakeFiles/lib_static.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=8,9,10,11,12 "Built target lib_static"
+.PHONY : CMakeFiles/lib_static.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 6
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lib.dir/all
+CMakeFiles/lib_static.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 5
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lib_static.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 0
-.PHONY : CMakeFiles/lib.dir/rule
+.PHONY : CMakeFiles/lib_static.dir/rule
 
 # Convenience name for target.
-lib: CMakeFiles/lib.dir/rule
-.PHONY : lib
+lib_static: CMakeFiles/lib_static.dir/rule
+.PHONY : lib_static
 
 # codegen rule for target.
-CMakeFiles/lib.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=7,8,9,10,11,12 "Finished codegen for target lib"
-.PHONY : CMakeFiles/lib.dir/codegen
+CMakeFiles/lib_static.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=8,9,10,11,12 "Finished codegen for target lib_static"
+.PHONY : CMakeFiles/lib_static.dir/codegen
 
 # clean rule for target.
-CMakeFiles/lib.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/clean
-.PHONY : CMakeFiles/lib.dir/clean
+CMakeFiles/lib_static.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/clean
+.PHONY : CMakeFiles/lib_static.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lib_shared.dir
+
+# All Build rule for target.
+CMakeFiles/lib_shared.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=3,4,5,6,7 "Built target lib_shared"
+.PHONY : CMakeFiles/lib_shared.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lib_shared.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 5
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lib_shared.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 0
+.PHONY : CMakeFiles/lib_shared.dir/rule
+
+# Convenience name for target.
+lib_shared: CMakeFiles/lib_shared.dir/rule
+.PHONY : lib_shared
+
+# codegen rule for target.
+CMakeFiles/lib_shared.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=3,4,5,6,7 "Finished codegen for target lib_shared"
+.PHONY : CMakeFiles/lib_shared.dir/codegen
+
+# clean rule for target.
+CMakeFiles/lib_shared.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/clean
+.PHONY : CMakeFiles/lib_shared.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/app.dir
 
 # All Build rule for target.
-CMakeFiles/app.dir/all:
+CMakeFiles/app.dir/all: CMakeFiles/lib_static.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=1,2 "Built target app"
 .PHONY : CMakeFiles/app.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/app.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/app.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/entropy/桌面/CMake任务/build/CMakeFiles 0
 .PHONY : CMakeFiles/app.dir/rule
@@ -137,7 +172,7 @@ app: CMakeFiles/app.dir/rule
 # codegen rule for target.
 CMakeFiles/app.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/entropy/桌面/CMake任务/build/CMakeFiles --progress-num=1,2 "Finished codegen for target app"
 .PHONY : CMakeFiles/app.dir/codegen
 
 # clean rule for target.

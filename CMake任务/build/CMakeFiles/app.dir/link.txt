@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/app.dir/link.d CMakeFiles/app.dir/src/add.cpp.o CMakeFiles/app.dir/src/div.cpp.o CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/mult.cpp.o CMakeFiles/app.dir/src/sub.cpp.o -o /home/entropy/桌面/CMake任务/bin/app
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/app.dir/link.d CMakeFiles/app.dir/src/main.cpp.o -o bin/app  liby.a

@@ -8,12 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/entropy/桌面/CMake任务/src/add.cpp" "CMakeFiles/app.dir/src/add.cpp.o" "gcc" "CMakeFiles/app.dir/src/add.cpp.o.d"
-  "/home/entropy/桌面/CMake任务/src/div.cpp" "CMakeFiles/app.dir/src/div.cpp.o" "gcc" "CMakeFiles/app.dir/src/div.cpp.o.d"
   "/home/entropy/桌面/CMake任务/src/main.cpp" "CMakeFiles/app.dir/src/main.cpp.o" "gcc" "CMakeFiles/app.dir/src/main.cpp.o.d"
-  "/home/entropy/桌面/CMake任务/src/mult.cpp" "CMakeFiles/app.dir/src/mult.cpp.o" "gcc" "CMakeFiles/app.dir/src/mult.cpp.o.d"
-  "/home/entropy/桌面/CMake任务/src/sub.cpp" "CMakeFiles/app.dir/src/sub.cpp.o" "gcc" "CMakeFiles/app.dir/src/sub.cpp.o.d"
-  "" "/home/entropy/桌面/CMake任务/bin/app" "gcc" "CMakeFiles/app.dir/link.d"
+  "" "bin/app" "gcc" "CMakeFiles/app.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

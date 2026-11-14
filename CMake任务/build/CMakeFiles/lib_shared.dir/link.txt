@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,--dependency-file=CMakeFiles/lib_shared.dir/link.d -Wl,-soname,liby.so -o liby.so CMakeFiles/lib_shared.dir/src/add.cpp.o CMakeFiles/lib_shared.dir/src/div.cpp.o CMakeFiles/lib_shared.dir/src/mult.cpp.o CMakeFiles/lib_shared.dir/src/sub.cpp.o

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liby.a CMakeFiles/lib_static.dir/src/add.cpp.o CMakeFiles/lib_static.dir/src/div.cpp.o CMakeFiles/lib_static.dir/src/mult.cpp.o CMakeFiles/lib_static.dir/src/sub.cpp.o
+/usr/bin/ranlib liby.a

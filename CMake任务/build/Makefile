@@ -117,17 +117,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named lib
+# Target rules for targets named lib_static
 
 # Build rule for target.
-lib: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib
-.PHONY : lib
+lib_static: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib_static
+.PHONY : lib_static
 
 # fast build rule for target.
-lib/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/build
-.PHONY : lib/fast
+lib_static/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/build
+.PHONY : lib_static/fast
+
+#=============================================================================
+# Target rules for targets named lib_shared
+
+# Build rule for target.
+lib_shared: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 lib_shared
+.PHONY : lib_shared
+
+# fast build rule for target.
+lib_shared/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/build
+.PHONY : lib_shared/fast
 
 #=============================================================================
 # Target rules for targets named app
@@ -147,8 +160,8 @@ src/add.o: src/add.cpp.o
 
 # target to build an object file
 src/add.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/add.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/add.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/add.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/add.cpp.o
 .PHONY : src/add.cpp.o
 
 src/add.i: src/add.cpp.i
@@ -156,8 +169,8 @@ src/add.i: src/add.cpp.i
 
 # target to preprocess a source file
 src/add.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/add.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/add.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/add.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/add.cpp.i
 .PHONY : src/add.cpp.i
 
 src/add.s: src/add.cpp.s
@@ -165,8 +178,8 @@ src/add.s: src/add.cpp.s
 
 # target to generate assembly for a file
 src/add.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/add.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/add.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/add.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/add.cpp.s
 .PHONY : src/add.cpp.s
 
 src/div.o: src/div.cpp.o
@@ -174,8 +187,8 @@ src/div.o: src/div.cpp.o
 
 # target to build an object file
 src/div.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/div.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/div.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/div.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/div.cpp.o
 .PHONY : src/div.cpp.o
 
 src/div.i: src/div.cpp.i
@@ -183,8 +196,8 @@ src/div.i: src/div.cpp.i
 
 # target to preprocess a source file
 src/div.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/div.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/div.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/div.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/div.cpp.i
 .PHONY : src/div.cpp.i
 
 src/div.s: src/div.cpp.s
@@ -192,8 +205,8 @@ src/div.s: src/div.cpp.s
 
 # target to generate assembly for a file
 src/div.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/div.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/div.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/div.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/div.cpp.s
 .PHONY : src/div.cpp.s
 
 src/main.o: src/main.cpp.o
@@ -201,7 +214,6 @@ src/main.o: src/main.cpp.o
 
 # target to build an object file
 src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/main.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.o
 .PHONY : src/main.cpp.o
 
@@ -210,7 +222,6 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/main.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
@@ -219,7 +230,6 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/main.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
@@ -228,8 +238,8 @@ src/mult.o: src/mult.cpp.o
 
 # target to build an object file
 src/mult.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/mult.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/mult.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/mult.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/mult.cpp.o
 .PHONY : src/mult.cpp.o
 
 src/mult.i: src/mult.cpp.i
@@ -237,8 +247,8 @@ src/mult.i: src/mult.cpp.i
 
 # target to preprocess a source file
 src/mult.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/mult.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/mult.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/mult.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/mult.cpp.i
 .PHONY : src/mult.cpp.i
 
 src/mult.s: src/mult.cpp.s
@@ -246,8 +256,8 @@ src/mult.s: src/mult.cpp.s
 
 # target to generate assembly for a file
 src/mult.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/mult.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/mult.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/mult.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/mult.cpp.s
 .PHONY : src/mult.cpp.s
 
 src/sub.o: src/sub.cpp.o
@@ -255,8 +265,8 @@ src/sub.o: src/sub.cpp.o
 
 # target to build an object file
 src/sub.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/sub.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/sub.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/sub.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/sub.cpp.o
 .PHONY : src/sub.cpp.o
 
 src/sub.i: src/sub.cpp.i
@@ -264,8 +274,8 @@ src/sub.i: src/sub.cpp.i
 
 # target to preprocess a source file
 src/sub.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/sub.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/sub.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/sub.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/sub.cpp.i
 .PHONY : src/sub.cpp.i
 
 src/sub.s: src/sub.cpp.s
@@ -273,8 +283,8 @@ src/sub.s: src/sub.cpp.s
 
 # target to generate assembly for a file
 src/sub.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib.dir/build.make CMakeFiles/lib.dir/src/sub.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/sub.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_static.dir/build.make CMakeFiles/lib_static.dir/src/sub.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lib_shared.dir/build.make CMakeFiles/lib_shared.dir/src/sub.cpp.s
 .PHONY : src/sub.cpp.s
 
 # Help Target
@@ -286,7 +296,8 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... app"
-	@echo "... lib"
+	@echo "... lib_shared"
+	@echo "... lib_static"
 	@echo "... src/add.o"
 	@echo "... src/add.i"
 	@echo "... src/add.s"
