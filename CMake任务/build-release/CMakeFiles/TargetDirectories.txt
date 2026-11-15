@@ -1,0 +1,5 @@
+/home/entropy/桌面/CMake任务/build-release/CMakeFiles/lib_static.dir
+/home/entropy/桌面/CMake任务/build-release/CMakeFiles/lib_shared.dir
+/home/entropy/桌面/CMake任务/build-release/CMakeFiles/app.dir
+/home/entropy/桌面/CMake任务/build-release/CMakeFiles/edit_cache.dir
+/home/entropy/桌面/CMake任务/build-release/CMakeFiles/rebuild_cache.dir

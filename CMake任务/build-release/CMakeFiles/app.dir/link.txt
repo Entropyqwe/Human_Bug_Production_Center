@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -DNDEBUG -O3 -s -Wl,--dependency-file=CMakeFiles/app.dir/link.d CMakeFiles/app.dir/src/main.cpp.o -o /home/entropy/桌面/CMake任务/bin/Release/app  /home/entropy/桌面/CMake任务/build/Release/liby.a
