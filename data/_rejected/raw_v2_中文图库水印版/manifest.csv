@@ -1,0 +1,9 @@
+﻿category,path,query,width,height,bytes,md5,source_url,license_note
+phone,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/phone/001.jpg,手机 桌面 实拍 照片,640,1138,131417,08703ad065a8923fb57afb7d150d4ab5,https://img-baofun.zhhainiao.com/pcwallpaper_ugc_mobile/preview/daddef756df63ad18810367ecabdaa0e_preview_mid.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+phone,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/phone/002.jpg,手机 桌面 实拍 照片,640,1074,552725,7bc35eeef0c5232c68f2c3e1014578fa,https://k.sinaimg.cn/n/sinacn10104/114/w640h1074/20200112/d201-imztzhm9037558.jpg/w700d1q75cms.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+phone,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/phone/003.jpg,手机 桌面 实拍 照片,860,573,71163,e8771d604f47913e9d3c8669df8a7074,https://img95.699pic.com/photo/60047/7632.jpg_wh860.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+phone,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/phone/004.jpg,手机 桌面 实拍 照片,860,573,128947,06a8ac12c9831c57b2c884072bac681e,https://img95.699pic.com/photo/50041/0826.jpg_wh860.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+key,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/key/001.jpg,钥匙 桌面 特写 实拍,700,393,50841,e8f206102de5c5750fabc7cbec4a5d40,https://img.redocn.com/sheji/20260530/fuguyuechitexie_13836456.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+key,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/key/002.jpg,钥匙 桌面 特写 实拍,1024,683,134798,c9e4494b66dd7f47fbbe262dc7bd3914,https://pic.nximg.cn/file/20250615/11283626_075635168108_2.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+key,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/key/003.jpg,钥匙 桌面 特写 实拍,860,526,65129,159cc7e39bd1a129902cc5379f203f41,https://img95.699pic.com/photo/50484/8668.jpg_wh860.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
+key,/home/entropy/桌面/pyTorch与yolo/data/raw_v2/key/004.jpg,钥匙 桌面 特写 实拍,860,573,67682,05cbb1e2e93b50c5b03fe6495ba723d2,https://img95.699pic.com/photo/50031/3321.jpg_wh860.jpg,网络图片，版权归原作者，仅供本地标注练习；不可用于对外发布，也不可写成自己采集的数据提交
